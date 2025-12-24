@@ -123,20 +123,20 @@ Please stay tuned for more updates!
 
 ## Pull Requests Templates
 
-We will track the development of LLM-for-Clustering and update the list frequently. We also welcome your PR. If you submit a PR, we recommend that you follow the template below. Sincere thanks to you!
+We will track the development of LLMs-for-Clustering and update the list frequently. We also welcome your PR. If you submit a PR, we recommend that you follow the template below. Sincere thanks to you!
 
-- If a list of papers from a new year, please add the following code (【】 are required contents).
+- If a list of papers from a new year, please add the following code ([] are required contents).
 
-- If there is no open source code, please delete <img src='./assets/code.png' /> <a href='【Code URL】' target='_blank'>Code</a>. It is recommended to add open source code, and prioritize items with code before items without code.
+- If there is no open source code, please delete <img src='./assets/code.png' /> <a href='[Code URL]' target='_blank'>Code</a>. It is recommended to add open source code, and prioritize items with code before items without code.
 
 ```html
 <details open> <!--2025-->
-  <summary><b>&nbsp;【YEAR】 (【Numbers】)</b></summary>
+  <summary><b>&nbsp;[YEAR] ([Numbers])</b></summary>
   <ul>
     <li>
-      <b>【Abbreviation】</b><i>【Article Name】. <b>【Publication'Year】</b>.</i>
-      <img src='./assets/paper.png' /> <a href='【Article URL】' target='_blank'>Article</a>
-      <img src='./assets/code.png' /> <a href='【Code URL】' target='_blank'>Code</a>
+      <b>[Abbreviation]</b><i>[Article Name]. <b>[Publication'Year]</b>.</i>
+      <img src='./assets/paper.png' /> <a href='[Article URL]' target='_blank'>Article</a>
+      <img src='./assets/code.png' /> <a href='[Code URL]' target='_blank'>Code</a>
     </li>
   </ul>
 </details>
